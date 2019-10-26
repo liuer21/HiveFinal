@@ -1,4 +1,4 @@
-package com.example.hive.game.actionMsg;
+package com.example.hive.game.config.actionMsg;
 
 import edu.up.cs301.game.util.GameTimer;
 

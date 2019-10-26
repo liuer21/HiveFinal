@@ -1,4 +1,4 @@
-package com.example.hive.game.actionMsg;
+package com.example.hive.game.config.actionMsg;
 
 import java.io.Serializable;
 
